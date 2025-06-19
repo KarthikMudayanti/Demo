@@ -1,3 +1,3 @@
 # Demo
 Git repository<br>
-Author - Karthik Mudayanti
+Author - Karthik Mudayanti(Developer)
